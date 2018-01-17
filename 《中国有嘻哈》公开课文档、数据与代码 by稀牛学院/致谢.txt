@@ -1,0 +1,14 @@
+《大数据文摘》原文链接
+http://mp.weixin.qq.com/s/InzVE9EJixY-HqKUceUYJg
+
+
+致谢：
+
+数据分析及可视化：寒小阳
+
+爬虫：崔振龙，Andy，杨亚强，万如苑
+
+感谢稀牛学院提供技术支持
+
+感谢Alex提供专业顾问
+
