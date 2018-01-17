@@ -1,6 +1,6 @@
 # hello world
 
 - 这是第一条，宋体
-- <text color="fff">hahahha</text>
+- <font color="#fff000">hahahha</font>
 
 ## 二级标题
